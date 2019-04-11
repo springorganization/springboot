@@ -15,7 +15,7 @@ import org.junit.After;
 public class IndexControllerTest {
 
     @Before
-    public void before() throws Exception {
+    public void before() {
     }
 
     @After
